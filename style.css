@@ -1,0 +1,28 @@
+head {
+    color: red;
+  }
+  
+  h1 {
+    color: white;
+  }
+  h1 {
+    text-decoration-line: underline;
+  }
+
+  h2 {
+    color : white;
+  }
+
+  body {
+    
+        background-image: url('https://www.usinenouvelle.com/mediatheque/2/1/6/000565612_896x598_c.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+  }
+  
+  a {
+    color : red;
+  }
+
+
